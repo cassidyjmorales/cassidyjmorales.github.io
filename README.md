@@ -44,7 +44,7 @@ A geosptial anaytics project where I did something.
 
 **Inaugural Speeches Sentiment Analysis**
 Used python package 'vader' with team to analyze presidental inaugural speeches from the historical roaring 20s, to the modern COVID-19.
-[Presentation](insert link)
+[Presentation](Orange 7 Text Analytics.pdf)
 
 **Lyft vs Ford GoBike**
 Analyzed Lyft's bike sales with SQL to gain insights into the market and provided recommendations to aquirce new customers.
