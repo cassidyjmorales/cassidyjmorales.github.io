@@ -1,4 +1,4 @@
-# Aspiring Data Scientist
+# Data Professional
 
 **Technical Skills:** PCEP – Certified Entry-Level Python Programmer, R, and SQL
 ## Contact Me
