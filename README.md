@@ -4,7 +4,7 @@
 ## Contact Me
 **Phone Number:** 919-673-3338
 **Email:** cassidyjmoralesbusiness@gmail.com
-**LinkedIn:** [https://www.linkedin.com/in/cassidymorales] (https://linkedin.com/in/cassidymorales)
+**Linkedin:** [https://www.linkedin.com/in/cassidymorales] (https://linkedin.com/in/cassidymorales)
 
 ## Education
 - MS Analytics | Institute for Advanced Analytics (_Class of 2025_)
