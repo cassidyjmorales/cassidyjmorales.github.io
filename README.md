@@ -38,6 +38,7 @@ Leasing Consultant | Nov 2021 – Dec 2022
 - Built and maintained strong relationships with tenants and delivered exceptional customer service, exceeding the renewal percentage goal for 11 consecutive months
 - Gained positive feedback from personal testimonials of clients and received recognition as a top-performing leasing consultant for consistently achieving outstanding results
 
+## Projects
 
 
 
