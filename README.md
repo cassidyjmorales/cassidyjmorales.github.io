@@ -2,8 +2,8 @@
 
 **Technical Skills:** PCEP – Certified Entry-Level Python Programmer, R, and SQL
 ## Contact Me
-**Phone Number:** 919-673-3338
-**Email:** cassidyjmoralesbusiness@gmail.com
+**Phone Number:** 919-673-3338  
+**Email:** cassidyjmoralesbusiness@gmail.com  
 **Linkedin:** [https://www.linkedin.com/in/cassidymorales] (https://linkedin.com/in/cassidymorales)
 
 ## Education
