@@ -40,14 +40,14 @@ Leasing Consultant | Nov 2021 – Dec 2022
 
 ## Projects
 **Something with the vets**  
-A geosptial anaytics project where I did something.
+- A geosptial anaytics project where I did something.  
 
 **Inaugural Speeches Sentiment Analysis**  
-Used python package 'vader' with team to analyze the sentiment of presidental inaugural speeches from the historical roaring 20s to modern COVID-19.  
+- Used python package 'vader' with team to analyze the sentiment of presidental inaugural speeches from the historical roaring 20s to modern COVID-19.  
 [Presentation](text.pdf)
 
 **Lyft vs Ford GoBike**  
-Analyzed Lyft's electric bike sales with SQL to gain insights into the market and provided recommendations to acquire new customers.
+- Analyzed Lyft's electric bike sales with SQL to gain insights into the market and provided recommendations to acquire new customers.  
 [Project](portfolio.pdf)
 
 
