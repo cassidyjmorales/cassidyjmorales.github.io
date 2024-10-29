@@ -7,13 +7,13 @@
 **Linkedin:** [https://www.linkedin.com/in/cassidymorales](https://linkedin.com/in/cassidymorales)
 
 ## Education
-- MS Analytics | Institute for Advanced Analytics (_Class of 2025_)
-- BA Economics | University of North Carolina at Chapel Hill	(_Class of 2024_)
-- AA Business Administration | Valencia Community College (_Class of 2021_)
+MS Analytics|Institute for Advanced Analytics (_Class of 2025_)
+BA Economics|University of North Carolina at Chapel Hill	(_Class of 2024_)
+AA Business Administration|Valencia Community College (_Class of 2021_)
 
 ## Practicum
-**Firstleaf**
-Scrum Lead |	Aug 2024—Current
+**Firstleaf**  
+Scrum Lead |	Aug 2024 — Current
 
 - Perform feature engineering on ~ 4 million observations across 10+ datasets for statistical analysis
 - Identify high-value customer segments by developing a scalable clustering algorithm (PCA, K-means, etc.) with Python to enhance retention and acquisition
@@ -23,14 +23,14 @@ Scrum Lead |	Aug 2024—Current
 - Facilitate Scrum process by overseeing sprint planning and reviews, enabling iterative development
 
 ## Experience
-**The Global Tech Experience**
-SQL & Python Trainee |	May 2023—June 2023
+**The Global Tech Experience**  
+SQL & Python Trainee |	May 2023 — June 2023
 - Engaged in a simulated work environment collaborating on projects with public companies and data, utilizing exploratory data analysis to effectively address data challenges and drive insights
 - Leveraged SQL queries to extract and manipulate data
 - Analyzed, visualized, and uncovered data insights using Jupyter Notebook
 - Utilized Tableau to create visualizations, communicating results of data analysis
 
-**GSC Corporation**
+**GSC Corporation**  
 Leasing Consultant | Nov 2021 – Dec 2022
 
 - Conducted lead generation by proactively communicating with potential clients, leading to over 30 resident move-ins
@@ -39,15 +39,15 @@ Leasing Consultant | Nov 2021 – Dec 2022
 - Gained positive feedback from personal testimonials of clients and received recognition as a top-performing leasing consultant for consistently achieving outstanding results
 
 ## Projects
-**Something with the vets**
+**Something with the vets**  
 A geosptial anaytics project where I did something.
 
-**Inaugural Speeches Sentiment Analysis**
-Used python package 'vader' with team to analyze presidental inaugural speeches from the historical roaring 20s, to the modern COVID-19.
+**Inaugural Speeches Sentiment Analysis**  
+Used python package 'vader' with team to analyze the sentiment of presidental inaugural speeches from the historical roaring 20s to modern COVID-19.  
 [Presentation](text.pdf)
 
-**Lyft vs Ford GoBike**
-Analyzed Lyft's bike sales with SQL to gain insights into the market and provided recommendations to aquirce new customers.
+**Lyft vs Ford GoBike**  
+Analyzed Lyft's electric bike sales with SQL to gain insights into the market and provided recommendations to acquire new customers.
 [Project](portfolio.pdf)
 
 
