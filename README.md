@@ -48,7 +48,7 @@ Used python package 'vader' with team to analyze presidental inaugural speeches 
 
 **Lyft vs Ford GoBike**
 Analyzed Lyft's bike sales with SQL to gain insights into the market and provided recommendations to aquirce new customers.
-[Project](Copy of Lyft vs Ford GoBike Analysis (1).pdf)
+[Project](portfolio.pdf)
 
 
 
