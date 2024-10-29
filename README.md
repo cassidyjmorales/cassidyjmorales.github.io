@@ -7,9 +7,9 @@
 **Linkedin:** [https://www.linkedin.com/in/cassidymorales](https://linkedin.com/in/cassidymorales)
 
 ## Education  
-- MS Analytics | Institute for Advanced Analytics (_Class of 2025_)
-- BA Economics | University of North Carolina at Chapel Hill (_Class of 2024_)
-- AA Business Administration | Valencia Community College (_Class of 2021_)
+- MS Analytics|Institute for Advanced Analytics (_Class of 2025_)
+- BA Economics|University of North Carolina at Chapel Hill (_Class of 2024_)
+- AA Business Administration|Valencia Community College (_Class of 2021_)
 
 ## Practicum
 **Firstleaf**  
@@ -18,7 +18,7 @@ Scrum Lead |	Aug 2024 — Current
 - Perform feature engineering on ~ 4 million observations across 10+ datasets for statistical analysis
 - Identify high-value customer segments by developing a scalable clustering algorithm (PCA, K-means, etc.) with Python to enhance retention and acquisition
 - Employ binary logistic regression to identify behaviors associated with customer churn likelihood
-- Build interactive Tableau dashboard to enable seamless exploration of customer segments and their data
+- Build an interactive Tableau dashboard to enable seamless exploration of customer segments and their data
 - Present findings to C-suite executives to provide strategic marketing recommendations for acquiring customers and reducing churn
 - Facilitate Scrum process by overseeing sprint planning and reviews, enabling iterative development
 
@@ -43,7 +43,7 @@ Leasing Consultant | Nov 2021 – Dec 2022
 - Investigated the ratio of individuals with disabilities below the poverty line in NC using R   
 
 **Inaugural Speeches Sentiment Analysis** | [Presentation](text.pdf)  
-- Used python package 'vader' with teammates to analyze the sentiment of presidential inaugural speeches from the historical roaring 20s to modern COVID-19
+- Used Python package 'vader' with teammates to analyze the sentiment of presidential inaugural speeches from the historical roaring 20s to modern COVID-19
 
 **Lyft vs Ford GoBike** | [Project](portfolio.pdf)  
 - Analyzed Lyft's electric bike sales with SQL to gain insights into the market and provided recommendations to acquire new customers
