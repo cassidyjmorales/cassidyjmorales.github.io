@@ -39,14 +39,14 @@ Leasing Consultant | Nov 2021 – Dec 2022
 - Gained positive feedback from personal testimonials of clients and received recognition as a top-performing leasing consultant for consistently achieving outstanding results
 
 ## Projects
-**Something with the vets**  
-- A geosptial anaytics project where I did something.  
+**Geospatial Analytics** | [Project](Geospatial.html)
+- Investigated the ratio of individuals with disabilities below the poverty line in NC using R   
 
 **Inaugural Speeches Sentiment Analysis** | [Presentation](text.pdf)  
-- Used python package 'vader' with team to analyze the sentiment of presidental inaugural speeches from the historical roaring 20s to modern COVID-19.  
+- Used python package 'vader' with teammates to analyze the sentiment of presidential inaugural speeches from the historical roaring 20s to modern COVID-19
 
 **Lyft vs Ford GoBike** | [Project](portfolio.pdf)  
-- Analyzed Lyft's electric bike sales with SQL to gain insights into the market and provided recommendations to acquire new customers.  
+- Analyzed Lyft's electric bike sales with SQL to gain insights into the market and provided recommendations to acquire new customers
 
 
 
