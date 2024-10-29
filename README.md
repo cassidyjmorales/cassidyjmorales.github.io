@@ -10,6 +10,14 @@
 MS Analytics|Institute for Advanced Analytics (_Class of 2025_)  
 BA Economics|University of North Carolina at Chapel Hill (_Class of 2024_)  
 AA Business Administration|Valencia Community College (_Class of 2021_)
+- **MS in Analytics**  
+  *Institute for Advanced Analytics*  (Class of 2025)
+
+- **BA in Economics**  
+  *University of North Carolina at Chapel Hill*  (Class of 2024)
+
+- **AA in Business Administration**  
+  *Valencia Community College*  (Class of 2021)
 
 ## Practicum
 **Firstleaf**  
