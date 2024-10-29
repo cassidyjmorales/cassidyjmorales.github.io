@@ -7,9 +7,6 @@
 **Linkedin:** [https://www.linkedin.com/in/cassidymorales](https://linkedin.com/in/cassidymorales)
 
 ## Education  
-MS Analytics|Institute for Advanced Analytics (_Class of 2025_)  
-BA Economics|University of North Carolina at Chapel Hill (_Class of 2024_)  
-AA Business Administration|Valencia Community College (_Class of 2021_)
 - **MS in Analytics**  
   *Institute for Advanced Analytics*  (Class of 2025)
 
