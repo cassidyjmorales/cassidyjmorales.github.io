@@ -35,14 +35,6 @@ SQL & Python Trainee |	May 2023 — June 2023
 - Analyzed, visualized, and uncovered data insights using Jupyter Notebook
 - Utilized Tableau to create visualizations, communicating results of data analysis
 
-**GSC Corporation**  
-Leasing Consultant | Nov 2021 – Dec 2022
-
-- Conducted lead generation by proactively communicating with potential clients, leading to over 30 resident move-ins
-- Secured over $3.8 million in housing relief through the government-funded House Wake program, aimed at mitigating homelessness caused by COVID-19 in Wake County
-- Built and maintained strong relationships with tenants and delivered exceptional customer service, exceeding the renewal percentage goal for 11 consecutive months
-- Gained positive feedback from personal testimonials of clients and received recognition as a top-performing leasing consultant for consistently achieving outstanding results
-
 ## Projects
 **Geospatial Analytics** | [Project](Geospatial.html)
 - Investigated the ratio of individuals with disabilities below the poverty line in NC using R   
