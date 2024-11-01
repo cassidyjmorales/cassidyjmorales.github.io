@@ -10,7 +10,7 @@
 - **MS in Analytics**  
   *Institute for Advanced Analytics*  (Class of 2025)
 
-- **BA in Economics** - Minor in Data Science
+- **BA in Economics** | Minor in Data Science  
   *University of North Carolina at Chapel Hill*  (Class of 2024)
 
 - **AA in Business Administration**  
