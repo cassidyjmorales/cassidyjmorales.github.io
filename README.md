@@ -36,7 +36,7 @@ SQL & Python Trainee |	May 2023 — June 2023
 - Utilized Tableau to create visualizations, communicating results of data analysis
 
 ## Projects
-**Book Recommendations** | [Project (my recommedations)](https://colab.research.google.com/drive/1ibTgAhn_5KpIdtJqi2z3aTFD0e5NqrCJ?usp=sharing) | [Project (recreate my code)](https://colab.research.google.com/drive/1Wp_uXstOrFlVcRcE2kNA1KVHce_6ZsPb?usp=sharing)
+**Book Recommendations** | [Project](https://colab.research.google.com/drive/1ibTgAhn_5KpIdtJqi2z3aTFD0e5NqrCJ?usp=sharing)
 - Utilized python to analyze Goodreads data to recommend books based on previously read books, along with a questionnaire
 - Conducted data cleaning and exploratory data analysis (EDA)
 - Implemented web scraping to complete my dataset
