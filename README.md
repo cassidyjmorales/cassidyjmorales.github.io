@@ -36,14 +36,14 @@ SQL & Python Trainee |	May 2023 — June 2023
 - Utilized Tableau to create visualizations, communicating results of data analysis
 
 ## Projects
-**Geospatial Analytics** | [Project](Geospatial.html)
-- Investigated the ratio of individuals with disabilities below the poverty line in NC using R   
-
 **Book Recommendations** | [Project (my recommedations)](https://colab.research.google.com/drive/1ibTgAhn_5KpIdtJqi2z3aTFD0e5NqrCJ?usp=sharing) | [Project (recreate my code)](https://colab.research.google.com/drive/1Wp_uXstOrFlVcRcE2kNA1KVHce_6ZsPb?usp=sharing)
 - Utilized python to analyze Goodreads data to recommend books based on previously read books, along with a questionnaire
 - Conducted data cleaning and exploratory data analysis (EDA)
 - Implemented web scraping to complete my dataset
 - Leveraged TF-IDF vectorization and cosine similarity to calculate similarity scores, allowing for personalized book recommendations based on my reading history
+
+**Geospatial Analytics** | [Project](Geospatial.html)
+- Investigated the ratio of individuals with disabilities below the poverty line in NC using R   
 
 **Lyft vs Ford GoBike** | [Project](portfolio.pdf)  
 - Analyzed Lyft's electric bike sales with SQL to gain insights into the market and provided recommendations to acquire new customers
