@@ -30,10 +30,11 @@ Scrum Lead |	Aug 2024 — Current
 ## Experience
 **The Global Tech Experience**  
 SQL & Python Trainee |	May 2023 — June 2023
-- Engaged in a simulated work environment collaborating on projects with public companies and data, utilizing exploratory data analysis to effectively address data challenges and drive insights
-- Leveraged SQL queries to extract and manipulate data
-- Analyzed, visualized, and uncovered data insights using Jupyter Notebook
-- Utilized Tableau to create visualizations, communicating results of data analysis
+- Participated in a 14-week data analytics program led by industry experts from Intel and NASA
+-	Collaborated with companies such as Starbucks, Lyft, and Ford to leverage exploratory data analysis, effectively tackling data challenges and driving insights
+-	Leveraged SQL and Python to analyze, visualize, and uncover data insights
+-	Utilized Tableau to create visualizations, communicating results of data analysis
+
 
 ## Projects
 **Book Recommendations** | [Project](https://colab.research.google.com/drive/1ibTgAhn_5KpIdtJqi2z3aTFD0e5NqrCJ?usp=sharing)
