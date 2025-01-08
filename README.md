@@ -31,7 +31,7 @@ Scrum Lead |	Aug 2024 — Current
 **The Global Tech Experience**  
 SQL & Python Trainee |	May 2023 — June 2023
 - Participated in a 14-week data analytics program led by industry experts from Intel and NASA
--	Collaborated with companies such as Lyft and Ford to leverage exploratory data analysis, effectively tackling data challenges and driving insights
+-	Collaborated with companies such as Lyft and Ford to leverage exploratory data analysis and effectively tackle data challenges and drive insights
 -	Leveraged SQL and Python to analyze, visualize, and uncover data insights
 -	Utilized Tableau to create visualizations, communicating results of data analysis
 
