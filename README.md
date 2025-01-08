@@ -37,10 +37,11 @@ SQL & Python Trainee |	May 2023 — June 2023
 
 ## Projects
 **Book Recommendations** | [Project](https://colab.research.google.com/drive/1ibTgAhn_5KpIdtJqi2z3aTFD0e5NqrCJ?usp=sharing)
-- Utilized python to analyze Goodreads data to recommend books based on previously read books, along with a questionnaire
-- Conducted data cleaning and exploratory data analysis (EDA)
-- Implemented web scraping to bring in external data
-- Leveraged TF-IDF vectorization and cosine similarity to calculate similarity scores, allowing for personalized book recommendations based on my reading history
+-	Utilized Python to develop a book recommendation system based on reading history and a questionnaire
+-	Performed data cleaning and exploratory analysis on data from Goodreads
+-	Implemented web scraping to integrate external data
+-	Utilized TF-IDF vectorization and cosine similarity to compute similarity scores, facilitating personalized book recommendations based on reading history
+
 
 **Geospatial Analytics** | [Project](Geospatial.html)
 - Investigated the ratio of individuals with disabilities below the poverty line in NC using R   
