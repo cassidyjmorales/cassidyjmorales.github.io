@@ -45,7 +45,10 @@ SQL & Python Trainee |	May 2023 — June 2023
 
 
 **Geospatial Analytics** | [Project](Geospatial.html)
-- Investigated the ratio of individuals with disabilities below the poverty line in NC using R   
+- Used R to conduct spatial analysis on the ratio of individuals with disabilities living below the poverty line in NC, utilizing advanced statistical methods and geospatial tools
+-	Developed linear and spatial regression models, including spatial error and lag models, to evaluate the relationship between disabled poverty rates and factors such as health insurance coverage
+-	Created interactive visualizations and maps to illustrate geographic distribution and spatial clustering, enhancing understanding of poverty challenges
+   
 
 **Lyft vs Ford GoBike** | [Project](portfolio.pdf)  
 - Analyzed Lyft's electric bike sales with SQL to gain insights into the market and provided recommendations to acquire new customers
